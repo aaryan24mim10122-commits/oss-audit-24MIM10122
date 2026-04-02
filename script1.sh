@@ -1,8 +1,8 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: [Keshav Gupta] | Course: Open-Source Software
+# Author: [Aaryan Rai] | Course: Open-Source Software
 # --- Variables ---s
-STUDENT_NAME="Keshav Gupta"
+STUDENT_NAME="Aaryan Rai"
 SOFTWARE_CHOICE="Python"
 # --- System info ---
 KERNEL=$(uname -r)
